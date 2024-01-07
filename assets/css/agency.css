@@ -1,0 +1,15 @@
+a:hover {
+  color: black!important;
+}
+
+.text-primary {
+  color: #931663!important;
+}
+
+.hoverImg:hover {
+  transform: scale(1.08);
+  /*transition-duration: 2s;*/
+  /*transition: all 2s ease-in-out;*/
+  max-width: 50vw;
+}
+
